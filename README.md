@@ -34,23 +34,22 @@ The FDX Admin Panel is a tool designed to streamline the process of scheduling W
 
 ### User's Landing Page
 
-TBD
+![Landing Page in app smith](readmeImages/landingpage.png)
+
 
 ### Schedule Notifications Page
 
-TBD
+![Notification page](readmeImages/Screenshot%202024-04-03%20at%203.44.27 PM.png)
 
-### Interaction between Home Page and Schedule Notifications Page
-
-TBD
 
 ### Conditional Modals at Schedule Notifications Page
 
-TBD
+![Notification page](readmeImages/Screenshot%202024-04-03%20at%203.44.40 PM.png)
 
-## Task
 
-### Functionality | Notifications
 
-TBD
+### Functionality | Notifications |Final OutPut
+![Notification page](readmeImages/Screenshot%202024-04-03%20at%203.50.59 PM.png)
+
+
 
